@@ -1,0 +1,14 @@
+D:\Projects\C#\PracticeC\mainpractice\bin\Debug\net8.0\mainpractice.exe
+D:\Projects\C#\PracticeC\mainpractice\bin\Debug\net8.0\mainpractice.deps.json
+D:\Projects\C#\PracticeC\mainpractice\bin\Debug\net8.0\mainpractice.runtimeconfig.json
+D:\Projects\C#\PracticeC\mainpractice\bin\Debug\net8.0\mainpractice.dll
+D:\Projects\C#\PracticeC\mainpractice\bin\Debug\net8.0\mainpractice.pdb
+D:\Projects\C#\PracticeC\mainpractice\obj\Debug\net8.0\mainpractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\PracticeC\mainpractice\obj\Debug\net8.0\mainpractice.AssemblyInfoInputs.cache
+D:\Projects\C#\PracticeC\mainpractice\obj\Debug\net8.0\mainpractice.AssemblyInfo.cs
+D:\Projects\C#\PracticeC\mainpractice\obj\Debug\net8.0\mainpractice.csproj.CoreCompileInputs.cache
+D:\Projects\C#\PracticeC\mainpractice\obj\Debug\net8.0\mainpractice.dll
+D:\Projects\C#\PracticeC\mainpractice\obj\Debug\net8.0\refint\mainpractice.dll
+D:\Projects\C#\PracticeC\mainpractice\obj\Debug\net8.0\mainpractice.pdb
+D:\Projects\C#\PracticeC\mainpractice\obj\Debug\net8.0\mainpractice.genruntimeconfig.cache
+D:\Projects\C#\PracticeC\mainpractice\obj\Debug\net8.0\ref\mainpractice.dll
